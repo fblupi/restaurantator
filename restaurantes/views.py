@@ -1,3 +1,5 @@
+# coding=utf-8
+
 from django.shortcuts import render, HttpResponse, redirect
 from django.contrib.auth.decorators import login_required
 from django.http import JsonResponse

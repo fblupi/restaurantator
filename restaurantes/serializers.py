@@ -1,3 +1,5 @@
+# coding=utf-8
+
 from rest_framework_mongoengine import serializers
 from rest_framework_mongoengine import viewsets
 
